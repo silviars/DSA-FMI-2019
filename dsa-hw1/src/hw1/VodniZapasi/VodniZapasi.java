@@ -1,3 +1,5 @@
+package hw1.VodniZapasi;
+
 import java.util.Scanner;
 
 public class VodniZapasi {

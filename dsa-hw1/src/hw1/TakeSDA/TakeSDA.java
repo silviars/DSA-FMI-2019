@@ -1,3 +1,5 @@
+package hw1.TakeSDA;
+
 import java.util.Scanner;
 
 public class TakeSDA {

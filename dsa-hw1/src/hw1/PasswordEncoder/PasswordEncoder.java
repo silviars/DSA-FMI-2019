@@ -1,3 +1,5 @@
+package hw1.PasswordEncoder;
+
 import java.util.Scanner;
 
 public class PasswordEncoder {

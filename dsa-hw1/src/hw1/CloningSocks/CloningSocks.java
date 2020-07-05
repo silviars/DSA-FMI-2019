@@ -1,3 +1,5 @@
+package hw1.CloningSocks;
+
 import java.util.Scanner;
 
 public class CloningSocks {
